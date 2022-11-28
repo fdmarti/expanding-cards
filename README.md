@@ -2,4 +2,4 @@
 
 # Expanding Cards project
 
-| 01  | [Expanding Cards] [Live Demo](https://50projects50days.com/projects/expanding-cards/) 
+| 01  | [Expanding Cards] [Live Demo](https://expanding-cards-neon.vercel.app/) 
