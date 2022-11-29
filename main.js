@@ -7,7 +7,6 @@ const checkIfHasClass = (element) => element.classList.contains('active') ? true
 imageContainer.forEach( el => {
     el.addEventListener('click', () => {
         imageContainer.forEach(el => el.classList.remove('active'))
-        const result = checkIfHasClass(el)
-        if (!result)  el.classList.add('active');
+        el.classList.add('active');
     })
 })
